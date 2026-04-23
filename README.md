@@ -2,7 +2,7 @@
 
 Internal build and deployment pipeline service. Validates and builds all pull requests automatically.
 
-## Development
+## Development ph
 
 ```bash
 npm install
